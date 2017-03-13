@@ -1,4 +1,4 @@
-CREATE A FOLDER
+create a folder
 ```bash
 mkdir foldername
 ```
